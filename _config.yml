@@ -1,0 +1,39 @@
+title: "0xpinonym"
+description: "Malware analysis - Reverse engineering - Systems - CTF wu - CVE exploration"
+url: "https://pinonym.github.io"
+
+theme: jekyll-theme-chirpy
+
+author:
+  name: pinonym
+  bio: "Student"
+
+timezone: Europe/Paris
+lang: en
+
+# Posts
+paginate: 10
+paginate_path: "/page:num/"
+
+# Syntax highlighting
+highlighter: rouge
+markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Socials (optionnel)
+github:
+  username: pinonym
+
+# Collections
+permalink: /posts/:title/
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
