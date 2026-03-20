@@ -2,7 +2,7 @@ title: "0xpinonym"
 description: "Malware analysis - Reverse engineering - Systems - CTF wu - CVE exploration"
 url: "https://pinonym.github.io"
 
-theme: jekyll-theme-chirpy
+theme: minima
 
 author:
   name: pinonym
