@@ -4,9 +4,12 @@ url: "https://pinonym.github.io"
 
 theme: minima
 
-author:
-  name: pinonym
-  bio: "Malware analysis · Reverse engineering · Systems"
+minima:
+  author:
+    name: pinonym
+    bio: "Malware analysis · Reverse engineering · Systems"
+  social_links:
+    - { platform: github, user_url: "https://github.com/pinonym" }
 
 timezone: Europe/Paris
 lang: en
