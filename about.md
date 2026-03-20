@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Security researcher interested in malware analysis, reverse engineering, and Windows internals.
+Security researcher (autoproclamed) interested in malware analysis, reverse engineering, and Windows internals.
 
 **Areas of focus**
 - Static & dynamic malware analysis
